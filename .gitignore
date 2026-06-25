@@ -1,0 +1,6 @@
+# assembled (large) weights — reproduced by weights/assemble_weights.sh; only the .part chunks are committed
+weights/locator/model.pt
+weights/captioner/model.safetensors
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,6 @@
+torch>=2.1
+transformers>=4.40
+huggingface_hub>=0.23
+librosa>=0.10
+soundfile>=0.12
+numpy
